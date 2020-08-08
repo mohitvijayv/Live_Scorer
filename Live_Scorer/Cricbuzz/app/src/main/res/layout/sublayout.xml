@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+    <FrameLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="395dp"
+        android:layout_height="146dp">
+
+        <TextView
+            android:id="@+id/team1_name_dv"
+            android:layout_width="100dp"
+            android:layout_height="17dp"
+            android:layout_marginStart="35dp"
+            android:layout_marginTop="104dp"
+            android:layout_marginEnd="300dp"
+            android:layout_marginBottom="662dp"
+            android:text="@string/team1" />
+
+        <TextView
+            android:id="@+id/date"
+            android:layout_width="100dp"
+            android:layout_height="17dp"
+            android:layout_marginStart="35dp"
+            android:layout_marginTop="36dp"
+            android:layout_marginEnd="300dp"
+            android:layout_marginBottom="730dp"
+            android:text="@string/date" />
+
+        <TextView
+            android:id="@+id/team1_score_dv"
+            android:layout_width="42dp"
+            android:layout_height="15dp"
+            android:layout_marginStart="100dp"
+            android:layout_marginTop="71dp"
+            android:layout_marginEnd="235dp"
+            android:layout_marginBottom="695dp"
+            android:text="@string/_0" />
+
+        <TextView
+            android:id="@+id/team2_score_dv"
+            android:layout_width="46dp"
+            android:layout_height="18dp"
+            android:layout_marginStart="202dp"
+            android:layout_marginTop="71dp"
+            android:layout_marginEnd="133dp"
+            android:layout_marginBottom="695dp"
+            android:text="@string/_0" />
+
+        <TextView
+            android:id="@+id/status"
+            android:layout_width="55dp"
+            android:layout_height="25dp"
+            android:layout_marginStart="285dp"
+            android:layout_marginTop="36dp"
+            android:layout_marginEnd="50dp"
+            android:layout_marginBottom="730dp"
+            android:text="@string/status" />
+
+        <TextView
+            android:id="@+id/team2_name_dv"
+            android:layout_width="100dp"
+            android:layout_height="17dp"
+            android:layout_marginStart="285dp"
+            android:layout_marginTop="104dp"
+            android:layout_marginEnd="50dp"
+            android:layout_marginBottom="662dp"
+            android:text="@string/team2" />
+    </FrameLayout>
+</LinearLayout>

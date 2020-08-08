@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Cricbuzz</string>
+    <string name="spree_2020">Spree 2020</string>
+    <string name="welcome">welcome</string>
+    <string name="textview">TextView</string>
+    <string name="login">Login</string>
+    <string name="login_id">login id</string>
+    <string name="password">Password</string>
+    <string name="events">Events</string>
+    <string name="select_event">Select Event</string>
+    <string name="football">Football</string>
+    <string name="standings">Standings</string>
+    <string name="live_matches">Live Matches</string>
+    <string name="live_scores">Live Scores</string>
+    <string name="standings_table">Standings Table</string>
+    <string name="team1">Team1</string>
+    <string name="team2">Team2</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="create_new_match">Create New Match</string>
+    <string name="type_name_of_team_1">Type name of team 1</string>
+    <string name="date">Date</string>
+    <string name="_0">0</string>
+    <string name="status">status</string>
+    <string name="set_match_as_finish">Set Match as Finish</string>
+    <string name="live_scorer">Live Scorer</string>
+</resources>
