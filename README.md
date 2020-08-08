@@ -8,3 +8,5 @@ Live Scorer is an android application that facilitates users to view the scores 
 -->score updates in real-time
 
 -->Leaderboard feature shows the current standings.
+
+Tech-Stacks = Android Studio, Realtime Database(Firebase), Authentication(Firebase).
